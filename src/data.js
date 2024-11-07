@@ -21,3 +21,9 @@ export const ways = [
     },
 
 ]
+
+export const differences = {
+    way: 'WAY sdjhlcbjhfdd fvkfdh h fdsv s hlkh njfd fdkdsbjfbefdkbsdjhlcbjhfdd fvkfdh h fdsv s hlkh njfd fdkdsbjfbefdkb',
+    easy: 'EASE sdjhlcbjhfdd fvkfdh h fdsv s hlkh njfd fdkdsbjfbefdkbsdjhlcbjhfdd fvkfdh h fdsv s hlkh njfd fdkdsbjfbefdkb',
+    program: 'PROGRAM sdjhlcbjhfdd fvkfdh h fdsv s hlkh njfd fdkdsbjfbefdkbsdjhlcbjhfdd fvkfdh h fdsv s hlkh njfd fdkdsbjfbefdkb',
+}
